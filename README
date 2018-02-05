@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fopenvpn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fopenvpn?ref=badge_shield)
+
 OpenVPN -- A Secure tunneling daemon
 
 Copyright (C) 2002-2018 OpenVPN Inc. This program is free software;
@@ -72,3 +74,7 @@ buildsystem have been replaced with openvpn-build:
   https://github.com/OpenVPN/openvpn-build
 
 See the INSTALL file for usage information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fopenvpn.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fopenvpn?ref=badge_large)
